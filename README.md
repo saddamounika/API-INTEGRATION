@@ -31,3 +31,6 @@ OpenWeatherMap API – for real-time weather data
 Visual Studio Code - Code editor for development
 Chrome Browser - To run and test the application
 Live Server Extension -	To run code on localhost
+
+*OUTPUT:
+![Image](https://github.com/user-attachments/assets/b7168380-abbd-48d6-a6c5-57c2a69696c8)
